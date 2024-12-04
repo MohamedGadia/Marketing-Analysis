@@ -42,6 +42,7 @@ This project aims to analyze marketing data using SQL and Python, with a Power B
   - Displays customer review ratings and sentiment distribution.
   - Visualizes the relationship between ratings and sentiment categories.
   - Analyzes customer feedback trends across time and products.
+    ![Customer Reviews Page](https://github.com/MohamedGadia/Marketing-Analysis/blob/main/Marketing%20Dashboard-Power%20BI/Customer_Reviews_Page.png?raw=true)
 
 ### 3. Conversion Page
 - **Description**: Focuses on customer journey and product conversions.
@@ -49,9 +50,11 @@ This project aims to analyze marketing data using SQL and Python, with a Power B
   - Shows conversion rates by product and action (view, click, drop-off, purchase).
   - Analyzes conversion trends by day of the week and month.
   - Highlights top-performing products based on conversion rates.
+    ![Conversion Page](https://github.com/MohamedGadia/Marketing-Analysis/blob/main/Marketing%20Dashboard-Power%20BI/Conversion_page.png?raw=true)
 
 ### 4. Social Media Details (Future Addition)
 - **Description**: Planned to analyze social media metrics and their impact on marketing performance.
+  ![Social Media Page](https://github.com/MohamedGadia/Marketing-Analysis/blob/main/Marketing%20Dashboard-Power%20BI/Social_Media_Page.png?raw=true)
 
 ---
 
@@ -81,3 +84,10 @@ This project aims to analyze marketing data using SQL and Python, with a Power B
 
 ## Contribution
 Feel free to contribute by raising issues or submitting pull requests to enhance the project.
+
+---
+
+## Programmer
+**Mohamed Ahmed Gadia**  
+Email: [mohamedgadia00@gmail.com]  
+LinkedIn: [Mohamed Gadia](https://www.linkedin.com/in/mohamedgadia) 
