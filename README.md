@@ -82,6 +82,16 @@ This project aims to analyze marketing data using SQL and Python, with a Power B
 
 ---
 
+## Project Presentation
+This project includes a professional presentation summarizing key insights and findings from the marketing analysis. The presentation highlights:
+- An overview of marketing performance metrics.
+- Detailed analysis of customer reviews, social media engagement, and conversion trends.
+- Recommendations based on data-driven insights to optimize marketing strategies.
+
+The presentation is structured to provide actionable insights and visually appealing dashboards for stakeholders.
+
+---
+
 ## Contribution
 Feel free to contribute by raising issues or submitting pull requests to enhance the project.
 
